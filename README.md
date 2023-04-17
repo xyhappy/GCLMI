@@ -28,4 +28,7 @@ To run GCLMI, just execute the following command for graph classification task:
 
 ```
 python main.py
-```# GCLMI
+```
+
+### Reference
+[[1] Graph Contrastive Learning with Augmentations](https://github.com/Shen-Lab/GraphCL)
